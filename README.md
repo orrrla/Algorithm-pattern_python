@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
