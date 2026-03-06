@@ -31,8 +31,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+| [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
 <!---LeetCode Topics End-->
