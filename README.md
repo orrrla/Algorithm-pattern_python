@@ -32,12 +32,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
 | [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
+| [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+| [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 <!---LeetCode Topics End-->
