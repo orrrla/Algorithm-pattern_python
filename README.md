@@ -50,10 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 <!---LeetCode Topics End-->
