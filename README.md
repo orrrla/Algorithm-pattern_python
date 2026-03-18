@@ -46,4 +46,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
 <!---LeetCode Topics End-->
