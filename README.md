@@ -55,12 +55,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -74,10 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 <!---LeetCode Topics End-->
