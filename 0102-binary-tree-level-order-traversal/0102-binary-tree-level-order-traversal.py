@@ -12,7 +12,7 @@ class Solution:
         queue = deque([root])
         while queue:
             n = len(queue)
-            cur_level=[]
+            cur_level = []
             for _ in range(n):
                 node = queue.popleft()
                 cur_level.append(node.val)
