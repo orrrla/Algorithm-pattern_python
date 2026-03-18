@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0033-search-in-rotated-sorted-array/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -67,5 +70,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 <!---LeetCode Topics End-->
