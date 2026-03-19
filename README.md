@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0206-reverse-linked-list/) | undefined |
 | [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 ## Tree
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
+| [0206-reverse-linked-list](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0206-reverse-linked-list/) | undefined |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
