@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 | [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
@@ -88,4 +89,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 <!---LeetCode Topics End-->
