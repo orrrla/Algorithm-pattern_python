@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0092-reverse-linked-list-ii/) | undefined |
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 | [0206-reverse-linked-list](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0206-reverse-linked-list/) | undefined |
 ## Doubly-Linked List
