@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+| [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+| [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+| [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
