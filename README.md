@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
+| [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
 | [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Search
@@ -152,4 +153,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
+| [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 <!---LeetCode Topics End-->
