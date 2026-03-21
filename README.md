@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 ## Linked List
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0046-permutations](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0046-permutations/) | undefined |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
