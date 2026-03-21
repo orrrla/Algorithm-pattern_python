@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+| [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 ## Design
@@ -139,8 +140,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0046-permutations/) | undefined |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
+| [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 <!---LeetCode Topics End-->
