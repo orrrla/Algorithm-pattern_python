@@ -4,18 +4,18 @@ class Solution:
         ans = []
         path = []
 
-        def dfs(i,start):
+        def dfs(i):
             if i == n:
                 ans.append(path.copy())
                 return
             
-            if i < n - 1:
-                dfs(i+1,start)
+            for j in range(i+1,n):
+                t = s[i:j]
+                if t==t[::-1]:
+                    path.append(t)
+                    dfs(j+1)
+                    path.pop()
             
-            t = s[start:i+1]
-            if t == t[::-1]:
-                path.append(t)
-                dfs(i+1,i+1)
-                path.pop()
-        dfs(0,0)
+        
+        dfs(0)
         return ans
