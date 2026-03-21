@@ -9,8 +9,8 @@ class Solution:
                 ans.append(path.copy())
                 return
             
-            for j in range(i+1,n):
-                t = s[i:j]
+            for j in range(i,n):
+                t = s[i:j+1]
                 if t==t[::-1]:
                     path.append(t)
                     dfs(j+1)
