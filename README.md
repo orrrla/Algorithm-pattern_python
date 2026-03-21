@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0101-symmetric-tree/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+| [0207-course-schedule](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0207-course-schedule/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Breadth-First Search
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+| [0207-course-schedule](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0207-course-schedule/) | undefined |
 | [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -115,4 +117,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+## Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0207-course-schedule/) | undefined |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0207-course-schedule/) | undefined |
 <!---LeetCode Topics End-->
