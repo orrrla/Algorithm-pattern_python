@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0033-search-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0033-search-in-rotated-sorted-array/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0035-search-insert-position](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0035-search-insert-position/) | undefined |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0046-permutations](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0046-permutations/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0033-search-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0033-search-in-rotated-sorted-array/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0035-search-insert-position](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0035-search-insert-position/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
 ## Matrix
