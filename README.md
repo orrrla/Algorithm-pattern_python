@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0033-search-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0033-search-in-rotated-sorted-array/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0046-permutations](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0046-permutations/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+| [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
 | [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 ## String
@@ -152,6 +154,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 <!---LeetCode Topics End-->
