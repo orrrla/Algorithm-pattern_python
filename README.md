@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0739-daily-temperatures](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0739-daily-temperatures/) | undefined |
 | [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Search
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +176,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0084-largest-rectangle-in-histogram](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0084-largest-rectangle-in-histogram/) | undefined |
 | [0739-daily-temperatures](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0739-daily-temperatures/) | undefined |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 <!---LeetCode Topics End-->
