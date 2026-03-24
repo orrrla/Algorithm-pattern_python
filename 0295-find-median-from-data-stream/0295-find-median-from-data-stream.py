@@ -13,7 +13,7 @@ class MedianFinder:
     
     def findMedian(self) -> float:
         if len(self.left) > len(self.right):
-            return -self.left[0]  # 取负得到原值
+            return -self.left[0] 
         return (-self.left[0] + self.right[0]) / 2
 
 
