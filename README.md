@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 | [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
+| [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
+| [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,9 +193,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 <!---LeetCode Topics End-->
