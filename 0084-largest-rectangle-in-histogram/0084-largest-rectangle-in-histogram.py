@@ -7,7 +7,7 @@ class Solution:
 
         for i,h in enumerate(heights):
             while st and heights[st[-1]]>=h:
-                rigth[st.pop()]=i
+                right[st.pop()]=i
             if st:
                 left[i] = st[-1]
             st.append(i)
