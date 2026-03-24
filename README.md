@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0035-search-insert-position/) | undefined |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0046-permutations](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0046-permutations/) | undefined |
+| [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
 | [0084-largest-rectangle-in-histogram](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0084-largest-rectangle-in-histogram/) | undefined |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
+| [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
@@ -206,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
 <!---LeetCode Topics End-->
