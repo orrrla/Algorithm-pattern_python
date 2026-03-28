@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0739-daily-temperatures](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0739-daily-temperatures/) | undefined |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0035-search-insert-position/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
+| [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
+| [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
