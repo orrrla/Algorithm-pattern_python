@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+| [0032-longest-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0032-longest-valid-parentheses/) | undefined |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0084-largest-rectangle-in-histogram](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0084-largest-rectangle-in-histogram/) | undefined |
 | [0155-min-stack](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0155-min-stack/) | undefined |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
+| [0032-longest-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0032-longest-valid-parentheses/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0032-longest-valid-parentheses/) | undefined |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
 | [0045-jump-game-ii](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
