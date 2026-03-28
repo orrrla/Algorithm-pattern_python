@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0035-search-insert-position/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0287-find-the-duplicate-number/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0042-trapping-rain-water/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0768-partition-labels](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0768-partition-labels/) | undefined |
 ## Monotonic Stack
