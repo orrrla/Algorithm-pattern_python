@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0045-jump-game-ii/) | undefined |
 | [0046-permutations](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0046-permutations/) | undefined |
 | [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
+| [0064-minimum-path-sum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0064-minimum-path-sum/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
 | [0084-largest-rectangle-in-histogram](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0084-largest-rectangle-in-histogram/) | undefined |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0064-minimum-path-sum/) | undefined |
 | [0074-search-a-2d-matrix](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0074-search-a-2d-matrix/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
 | [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
 | [0062-unique-paths](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0062-unique-paths/) | undefined |
+| [0064-minimum-path-sum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0064-minimum-path-sum/) | undefined |
 | [0070-climbing-stairs](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0070-climbing-stairs/) | undefined |
 | [0118-pascals-triangle](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
