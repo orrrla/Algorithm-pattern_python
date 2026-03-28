@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
+| [0416-partition-equal-subset-sum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0416-partition-equal-subset-sum/) | undefined |
 | [0739-daily-temperatures](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0739-daily-temperatures/) | undefined |
 | [1036-rotting-oranges](https://github.com/orrrla/Algorithm-pattern_python/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Search
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
+| [0416-partition-equal-subset-sum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0416-partition-equal-subset-sum/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
