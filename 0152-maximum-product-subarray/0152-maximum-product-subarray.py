@@ -3,7 +3,7 @@ class Solution:
         ans = -inf
         f_max=f_min = 1
         for x in nums:
-            f_max = max(f_max*x,f_min*x,x)
-            f_min = min(f_max*x,f_min*x,x)
+            f_max,f_min= max(f_max*x,f_min*x,x),\
+                        min(f_max*x,f_min*x,x)
             ans = max(ans,f_max)
         return ans
