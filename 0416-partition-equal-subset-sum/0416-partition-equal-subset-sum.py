@@ -1,14 +1,11 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        if sum(nums)%2 !=0:
-            return False
-        target = sum(nums)//2
-        n=len(nums)
         @cache
-        def dfs(i, c):
-            if i<0 or c <0:
-                return False
-            if c==0:
-                return True
-            return dfs(i-1,c) or dfs(i-1,c-nums[i])
-        return dfs(n-1,target)
+        def dfs(i, j):
+            if i < 0:
+                return j == 0
+            if nums[i] > j:
+                return dfs(i - 1,j)
+            return dfs(i-1,j) or dfs(i-1,j-nums[i])
+        s = sum(nums)
+        return s % 2 == 0 and dfs(len(nums)-1,s//2)
