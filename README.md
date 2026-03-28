@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0152-maximum-product-subarray/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
+| [0169-majority-element](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0169-majority-element/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0169-majority-element](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0169-majority-element/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Stack
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
+| [0169-majority-element](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0169-majority-element/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0768-partition-labels](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0768-partition-labels/) | undefined |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0169-majority-element/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -230,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0169-majority-element/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
