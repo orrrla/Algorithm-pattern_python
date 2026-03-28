@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0078-subsets/) | undefined |
 | [0084-largest-rectangle-in-histogram](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0084-largest-rectangle-in-histogram/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0118-pascals-triangle](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0055-jump-game/) | undefined |
 | [0070-climbing-stairs](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0070-climbing-stairs/) | undefined |
+| [0118-pascals-triangle](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
