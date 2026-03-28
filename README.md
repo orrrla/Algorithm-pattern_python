@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0118-pascals-triangle](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
+| [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0153-find-minimum-in-rotated-sorted-array/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
 | [0020-valid-parentheses](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0020-valid-parentheses/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
+| [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0394-decode-string](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0394-decode-string/) | undefined |
 | [0768-partition-labels](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0768-partition-labels/) | undefined |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0017-letter-combinations-of-a-phone-number/) | undefined |
+| [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0146-lru-cache](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0146-lru-cache/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0208-implement-trie-prefix-tree](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -181,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0131-palindrome-partitioning/) | undefined |
+| [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
 ## Two Pointers
@@ -234,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0070-climbing-stairs/) | undefined |
+| [0139-word-break](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0139-word-break/) | undefined |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
