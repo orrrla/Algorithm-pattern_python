@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0200-number-of-islands/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0300-longest-increasing-subsequence](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0300-longest-increasing-subsequence/) | undefined |
 | [0322-coin-change](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0322-coin-change/) | undefined |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Data Stream
@@ -272,4 +274,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0062-unique-paths/) | undefined |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0239-sliding-window-maximum/) | undefined |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0239-sliding-window-maximum/) | undefined |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/orrrla/Algorithm-pattern_python/tree/main/0239-sliding-window-maximum/) | undefined |
 <!---LeetCode Topics End-->
